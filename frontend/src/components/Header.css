@@ -1,0 +1,9 @@
+.navbar {
+  position: sticky;
+  /* opacity: 0.7; */
+}
+
+.title {
+  font-size: 40px;
+  font-family: 'Libre Baskerville', serif;
+}

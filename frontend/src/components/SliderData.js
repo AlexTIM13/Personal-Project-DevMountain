@@ -1,0 +1,34 @@
+export const SliderData = [
+  {
+    image:
+      'https://cdn.chcarolinaherrera.com/wcscontent/photos/CH/ATMP/AA/CA/AACA10ET07475/1024/AACA10ET07475_01.jpg'
+  },
+  {
+    image:
+      'https://cdn.chcarolinaherrera.com/wcscontent/photos/CH/2021/11/CZ/11CZDE0100662/1024/11CZDE0100662_01.jpg'
+  },
+  {
+    image:
+      'https://cdn.chcarolinaherrera.com/wcscontent/photos/CH/ATMP/AA/CA/AACA32Q406822/1024/AACA32Q406822_01.jpg'
+  },
+  {
+    image:
+      'https://cdn.chcarolinaherrera.com/wcscontent/photos/CH/2021/12/CZ/12CZZP1600303/1024/12CZZP1600303_03.jpg'
+  },
+  {
+    image:
+      'https://cdn.chcarolinaherrera.com/wcscontent/photos/CH/ATMP/AA/CA/AACA475000246/1024/AACA475000246_01.jpg'
+  },
+  {
+    image:'https://cdn.chcarolinaherrera.com/wcscontent/photos/CH/ATMP/AA/CA/AACA081708101/1024/AACA081708101_02.jpg'
+  },
+  {
+    image:'https://cdn.chcarolinaherrera.com/wcscontent/photos/CH/ATMP/AA/CA/AACA32V6GK521/1024/AACA32V6GK521_01.jpg'
+  },
+  {
+    image:'https://cdn.chcarolinaherrera.com/wcscontent/photos/CH/2021/12/CZ/12CZDE2600644/1024/12CZDE2600644_01.jpg'
+  },
+  {
+    image:'https://cdn.chcarolinaherrera.com/wcscontent/photos/CH/ATMP/AA/CA/AACA24G609849/1024/AACA24G609849_01.jpg'  
+  }    
+];
